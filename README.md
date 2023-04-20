@@ -4,20 +4,22 @@
 
 ## Introduction:
 This is a Power BI project to analyze Nigeria's Economy and derive insights on the economic trends and growth over the years from 2001-2020. The dataset was obtained from the World Bank via Kaggle.
-Link to data: data.worldbank.org/country/Ng.
+Link to data: [here](data.worldbank.org/country/Ng)
 
 ## Skills/Concepts demonstrated: 
-The following Power BI features were incorporated:
+- PowerQuery
 - Page navigation 
 - Filters
 - Tooltips
 - Button
+- Dashboard
 
 ## Problem Statement:
-Which year has the highest GDP? 
-Which year has the lowest GDP?
-Which year had the highest total population?
-What is the distribution of Trade, Gross Domestic Savings and Value Added in the year 2011?
+1. What is the GDP(current US$) and GNI(current US$) by year?
+2. What are the Rural population, Urban population, and Population,total rates by year?
+3. What is the fertility rate, total (births per woman) by year?
+4. What is the relationship between the Import of goods (current US$) and Export of goods (current US$)?
+5. What is the percentage of Trade(% of GDP), Agriculture, forestry, and fishing, value added (% of GDP) for the year 2011?
 
 ## Visualization:
 The report comprises 1 page
@@ -34,3 +36,7 @@ Year 2000 had the lowest GDP(current US$) of 69,448,756,933.
 Year 2014 had the highest GDP(current US$) of 574,183,825,590.
 Year 2020 has the highest population with 208 Million people. 
 Year 2011 recorded a Trade count of 53, Gross Domestic Savings count of 25 and Value Added count of 22.
+
+## Recommendations:
+1. Developing human capital, enhancing productivity of labour through training, technology, improving infrastructure can improve the overall GDP thereby contributing to economic growth.
+2. Encouraging family planning, Reproductive Health awareness and access to quality healthcare can ensure sustainable population growth and overall improve health and well-being.
